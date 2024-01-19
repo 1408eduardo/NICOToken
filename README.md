@@ -18,7 +18,9 @@
 | Nico Distributor    | [`terra1s5zft8tgddtpgqhlauyl5lt2vre9euu4exg37rkug2dv4l7leygqsvj79g`](https://terrasco.pe/mainnet/address/terra1s5zft8tgddtpgqhlauyl5lt2vre9euu4exg37rkug2dv4l7leygqsvj79g)        |
 | Nico Token          | [`terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3`](https://terrasco.pe/mainnet/address/terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3)        |
 | Nico-axlUsdc Pair   | [`terra1s2txvndlu5fezsq3f7zgtrw0pk3ryw0lxq9nfgzuqr3hhlnc92xsghwnzm`](https://chainsco.pe/terra2/address/terra1s2txvndlu5fezsq3f7zgtrw0pk3ryw0lxq9nfgzuqr3hhlnc92xsghwnzm#!) |
-
+| Nico Metaap   |
+[`_terra1rargvklgrh3g6950akvrz4pr8vcng2dhj7yt3p_']
+(https://terrasco.pe/mainnet/address/terra1rargvklgrh3g6950akvrz4pr8vcng2dhj7yt3p)    |
 
 
 
